@@ -78,12 +78,6 @@ npm install
 
 Create `.env.local`
 
-```env
-GROQ_API_KEY=your_key_here
-NEXT_PUBLIC_SUPABASE_URL=your_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
-```
-
 ### 4. Run Locally
 
 ```bash
